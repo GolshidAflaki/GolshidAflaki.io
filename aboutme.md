@@ -2,7 +2,7 @@
 
 ## Academics
 
-**Postdoctoral/IVADO fellow** (November 2019–October 2020) at the Université de Montréal/Mila, Montreal,
+<!-- **Postdoctoral/IVADO fellow** (November 2019–October 2020) at the Université de Montréal/Mila, Montreal,
 Canada. Under the supervision of Prof. Simon Lacoste-Julien (co-supervised by Prof. Michel Gendreau)
 
 **Postdoctoral/IVADO fellow** (November 2018–October 2019) at the Polytechnique Montréal, Montreal,
@@ -70,4 +70,4 @@ Technology)
 ECML/PKDD (The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases), STAIRS (The European Starting AI Researcher Symposium)
 
 - 2013: BNAIC (The Benelux Conference on Artificial Intelligence), ISKE (The International Conference on Intelligent Systems and Knowledge Engineering), SocInfo (The International Conference on
-Social Informatics)
+Social Informatics) -->

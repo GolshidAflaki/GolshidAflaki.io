@@ -2,7 +2,7 @@
 
 ## Invited Talks
 
-### 2023
+<!-- ### 2023
 
 - **World Cities Day: CIFAR talks on Future Cities**, Invited Speaker, October 31, 2023
 
@@ -125,4 +125,4 @@
 
 - **Vlerick Leuven Gent Management School**, Belgium, September 22, 2014 , **Mining of Social Media**
 
-- **University of Washington, Tacoma**, USA, January 22, 2014, **Inferring Missing User Attributes from User Generated Content**, [Info](http://cwds.uw.edu/post-doc-researcher-golnoosh-farnadi)
+- **University of Washington, Tacoma**, USA, January 22, 2014, **Inferring Missing User Attributes from User Generated Content**, [Info](http://cwds.uw.edu/post-doc-researcher-golnoosh-farnadi) -->

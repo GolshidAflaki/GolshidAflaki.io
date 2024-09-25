@@ -2,7 +2,7 @@
 
 ## Interviews & Media
 
-- Subject of an article entitled “Making AI Fairer: How Golnoosh Farnadi Tackles Biases”, Mila, 2023 [more info](https://mila.quebec/en/making-ai-fairer-how-golnoosh-farnadi-tackles-biases/)
+<!-- - Subject of an article entitled “Making AI Fairer: How Golnoosh Farnadi Tackles Biases”, Mila, 2023 [more info](https://mila.quebec/en/making-ai-fairer-how-golnoosh-farnadi-tackles-biases/)
 
 - Interview with Simon Lord of La Presse, “Fidèle à ses convictions”, 2023, [more info](https://www.lapresse.ca/affaires/portfolio/2023-02-17/intelligence-artificielle/fidele-a-ses-convictions.php)
 
@@ -37,4 +37,4 @@
 [![](https://markdown-videos-api.jorgenkh.no/youtube/ieMRp--C_eM?si=D6VhueEnAFcCO7gt)](https://youtu.be/ieMRp--C_eM?si=D6VhueEnAFcCO7gt)
 
 
-
+ -->

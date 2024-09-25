@@ -1,6 +1,6 @@
 | [Home](index.md) | [Publications](https://scholar.google.com/citations?user=4Vjp6hwAAAAJ&hl=en) | [Talks](talks.md) | [Interviews & Media](news.md) | [Awards](awards.md) | [Teaching](teaching.md) | [EQUAL Lab](student.md) | 
 
-## EQUAL Lab 
+<!-- ## EQUAL Lab 
 
 <div align="center">
     <img src="equallab.png" width="400">
@@ -112,4 +112,4 @@ Below are links to various pages on funding opportunities in Montreal, just in c
 ### Funding for undergraduate students (for internship/exchange)
 
 - [IVADO Undergraduate Research Scholarships](https://www.google.com/url?q=https%3A%2F%2Fivado.ca%2Fen%2Fivado-scholarships%2Fundergraduate-research-scholarships%2F&sa=D&sntz=1&usg=AFQjCNE6f9n27E8DhvhNnItix76ohDduew)
-- [Building 21 internship](https://www.google.com/url?q=https%3A%2F%2Fbuilding21.ca%2Fblue-intern&sa=D&sntz=1&usg=AFQjCNHPm5rbdY3gyQIs5dKL_sO2qK6Z8A)
+- [Building 21 internship](https://www.google.com/url?q=https%3A%2F%2Fbuilding21.ca%2Fblue-intern&sa=D&sntz=1&usg=AFQjCNHPm5rbdY3gyQIs5dKL_sO2qK6Z8A) -->

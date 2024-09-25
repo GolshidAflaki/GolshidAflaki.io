@@ -2,7 +2,7 @@
 
 ## Honors and Awards 
 
-- **Google Award for Inclusion Research**, 2023.
+<!-- - **Google Award for Inclusion Research**, 2023.
 
 - **Women in AI Awards North America, Responsible AI Leader of the year, Finalist**, 2023, [more info](https://www.womeninai.co/post/finalists-and-special-jury-recognitions-announced-for-women-in-ai-awards-north-america-2023)
 
@@ -43,4 +43,4 @@ funded by IVADO, 2018-2021
 
 - IRF Conference **Google Grant Winner** (covering travel and accommodation in Vienna), 2011
 
-- **Ranked 3rd** among graduated students of computer science at SBU, 2007
+- **Ranked 3rd** among graduated students of computer science at SBU, 2007 -->
