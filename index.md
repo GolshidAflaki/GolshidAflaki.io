@@ -3,7 +3,7 @@
 ## Lecturer at HEC Montreal
 #### PhD Candidate in Data Science at HEC Montreal / Researcher at Gerad research group 
 
-<div style="float: left; margin-right: 20px;">
+<div style="float: left; margin-right: 100px;">
     <img src="GolshidAflaki.jpg" width="300">
 </div>
 
