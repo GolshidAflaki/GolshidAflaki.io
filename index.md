@@ -2,23 +2,16 @@
 
 ## Lecturer at HEC Montreal
 #### PhD Candidate in Data Science at HEC Montreal / Researcher at Gerad research group 
-<div align="center">
+
+<div style="float: left; margin-right: 20px;">
     <img src="GolshidAflaki.jpg" width="300">
 </div>
 
 # About Me
 
-Hi there! I'm Golshid Aflaki a passionate statistician and an educator with a PhD in progress. I am PhD candidate in Data Science program at HEC Montreal, working on Mixture Models and Dependence Modeling under the supervision of [Professor Jean-François Plante](https://www.hec.ca/profs/jfplante.html) and Professor [Juliana Schulz](https://www.hec.ca/en/profs/juliana.schulz.html). My interest in statistics stems from a deep love for blending academic rigor and real-world problem-solving. My current focus is on on research and teaching statistics at HEC Montréal. 
-
-
-
-
-
-
-
+Hi there! I'm Golshid Aflaki, a passionate statistician and an educator with a PhD in progress. I am a PhD candidate in the Data Science program at HEC Montreal, working on Mixture Models and Dependence Modeling under the supervision of [Professor Jean-François Plante](https://www.hec.ca/profs/jfplante.html) and Professor [Juliana Schulz](https://www.hec.ca/en/profs/juliana.schulz.html). My interest in statistics stems from a deep love for blending academic rigor and real-world problem-solving. My current focus is on research and teaching statistics at HEC Montréal. 
 
 Let’s connect and solve data-driven challenges together.
-
 
 ### Research Interest
 
