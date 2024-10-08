@@ -2,9 +2,9 @@
 
 ## Teaching 
 
-*Statistical Learning (Fall 2024),  HEC Montreal**
+**Statistical Learning** (Fall 2024),  HEC Montreal
 
-*Statistics (Winter 2024),  HEC Montreal**
+**Statistics** (Winter 2024),  HEC Montreal
 
 
 
